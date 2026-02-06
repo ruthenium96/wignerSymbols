@@ -7,7 +7,7 @@ set (wignerSymbols_VERSION_MINOR 2)
 set (wignerSymbols_VERSION_RELEASE 0)
 
 # CMake config
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.14)
 if (CMAKE_INSTALL_PREFIX_INITIALIZED_TO_DEFAULT)
     set (CMAKE_INSTALL_PREFIX /usr)
 endif()
